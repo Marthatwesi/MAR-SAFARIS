@@ -10,10 +10,7 @@ h1{
 width: 500px;
 }
 body{
-
-  background-image: url(mar-safaris.jpg);
-  background-size: cover;
-  background-attachment: fixed;
+  background-color: grey;
 }
 .content{
   background: white;
